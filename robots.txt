@@ -9,4 +9,4 @@ Allow: /publications
 Allow: /news
 
 # Sitemap location
-Sitemap: https://systemsneurosciencelab.com/sitemap.xml
+Sitemap: https://systems-neuro-lab.github.io/sitemap.xml
